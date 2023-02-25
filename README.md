@@ -72,15 +72,14 @@
 
 <p align="center">
 
-<a href="tamerjoma.online"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.facebook.com/tamerjuma88/"><img alt="Facebook" src="https://img.shields.io/badge/Tamer%20Jomaa-FaceBook-blue?style=flat-square"></a>
 
-<a href="https://www.linkedin.com/in/tamerjuma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/tamerjuma/"><img alt="LinkedIn" src="https://img.shields.io/badge/Tamer%20Jomaa-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/prisoft88/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/prisoft88/"><img alt="Instagram" src="https://img.shields.io/badge/Tamer%20Jomaa-Instagram-orange?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:prisoft@live.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:prisoft@live.com"><img alt="Email" src="https://img.shields.io/badge/Tamer%20Jomaa-Email-blueviolet?style=flat-square&logo=gmail"></a>
 
-</p>
 
 
 
